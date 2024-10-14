@@ -33,9 +33,9 @@ Este escutador monitora os eventos de morte dos jogadores e é usado no ComandoV
 
 1. Baixe o pacote de comandos.
 2. Coloque o arquivo `.jar` na pasta `plugins` do seu servidor Minecraft.
-3.0 Reinicie o servidor para que o plugin seja carregado.
-3.1. Ou digite no chat "/reload" e depois "/reload confirm", sem as aspas.
-3.1.1. OBS: Essa não é uma prática recomendada, mas é mais rápida.
+3. Reinicie o servidor para que o plugin seja carregado.
+      Ou digite no chat `/reload` e depois `/reload confirm`, sem as aspas.
+            OBS: Essa não é uma prática recomendada, mas é mais rápida.
 
 ## Uso
 
