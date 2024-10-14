@@ -1,0 +1,15 @@
+name: CommandPackGK
+version: '1.0-SNAPSHOT'
+main: br.edu.commandpack.CPrincipal
+api-version: '1.21'
+commands:
+  generateFlower:
+    description: 'Este comando gera uma flor onde você está olhando.'
+  backDeathLoc:
+    description: 'Este comando teleporta você para o local de sua última morte.'
+  home:
+    description: 'Este comando teleporta você para o local de sua casa.'
+  camping:
+    description: 'Este comando teleporta você para o local de seu acampamento.'
+
+
