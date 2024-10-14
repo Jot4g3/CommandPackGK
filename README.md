@@ -4,7 +4,7 @@
 
 Este é um pacote de comandos para Minecraft, projetado para fornecer funcionalidades adicionais ao jogo. O pacote inclui comandos que realizam ações específicas e outras funcionalidades que independem da digitação do jogador, os ouvidins: listeners que executam algo em determinadas situações.
 
-### CPrincipal
+## CPrincipal
 Esta é apenas a classe principal do CommandPack, onde os comandos e "ouvidins" são registrados.
 
 ## Comandos
